@@ -1,5 +1,5 @@
 <p align="center">
-##NovoAppAngular - Meu primeiro projeto em angular
+<h1>NovoAppAngular - Meu primeiro projeto em angular</h1>
 <p align="center">
 Pretendo ir trabalhando neste projeto enquanto estiver estudando angular!
 <p align="center">
