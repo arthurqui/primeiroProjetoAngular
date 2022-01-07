@@ -3,5 +3,5 @@
 <p align="center">
 Pretendo ir trabalhando neste projeto enquanto estiver estudando angular!
 <p align="center">
-<a href="https://primeiroprojetoangulararthur.netlify.app">Deploy</a>
+<a href="https://primeiroprojetoangulararthur.netlify.app">💻 Deploy</a>
 </p>
